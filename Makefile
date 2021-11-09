@@ -6,14 +6,14 @@
 #    By: sjacinda <sjacinda@student.42.fr>          +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2021/10/29 13:40:04 by sjacinda          #+#    #+#              #
-#    Updated: 2021/11/09 18:41:47 by sjacinda         ###   ########.fr        #
+#    Updated: 2021/11/09 22:25:11 by sjacinda         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
 NAME	=	libftprintf.a
 
-SRCS	=	ft_printf.c	ft_c.c	ft_support_func.c\
-			ft_s.c	ft_p.c	ft_di.c	ft_u.c	ft_xX.c
+SRCS	=	ft_printf.c	ft_support_func.c \
+			ft_c.c	ft_s.c	ft_p.c	ft_di.c	ft_u.c	ft_xX.c
 
 HEADER	=	ft_printf.h
 
